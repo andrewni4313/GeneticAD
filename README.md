@@ -8,4 +8,4 @@ The python notebooks in this repository are for the unsupervised clustering, ran
 Tetrad Causal Analysis files are also included.
 Periperal blood gene expression data can be acquired by appling to the Alzheimer's Disease Neuroimaging Initiative (ADNI) database at http://adni.loni.usc.edu/
 
-All the files are made available under the MIT license.
+All the files are distributed under the MIT license.
